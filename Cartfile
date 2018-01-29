@@ -1,0 +1,3 @@
+github "ccgus/fmdb"
+github "SnapKit/SnapKit" ~> 4.0.0
+github "hyperoslo/Whisper"

@@ -1,0 +1,18 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "6.0.2",
+  "iOS" : [
+    {
+      "name" : "Whisper",
+      "hash" : "fcc8d4b3b32b2cf1a3056c6230a869edda9380253c1c6abc4f0d820bfe9975f1"
+    }
+  ]
+}
